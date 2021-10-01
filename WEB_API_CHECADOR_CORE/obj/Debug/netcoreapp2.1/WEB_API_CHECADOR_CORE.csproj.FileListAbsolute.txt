@@ -1,0 +1,17 @@
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\bin\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.deps.json
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\bin\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.runtimeconfig.json
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\bin\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.runtimeconfig.dev.json
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\bin\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.dll
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\bin\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.pdb
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\obj\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.csproj.AssemblyReference.cache
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\obj\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.AssemblyInfoInputs.cache
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\obj\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.AssemblyInfo.cs
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\obj\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.csproj.CoreCompileInputs.cache
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\obj\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.RazorAssemblyInfo.cache
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\obj\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.RazorAssemblyInfo.cs
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\obj\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.RazorTargetAssemblyInfo.cache
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\obj\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.dll
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\obj\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.pdb
+C:\Users\amendoza\source\repos\WEB_API_CHECADOR_CORE\WEB_API_CHECADOR_CORE\obj\Debug\netcoreapp2.1\WEB_API_CHECADOR_CORE.genruntimeconfig.cache
